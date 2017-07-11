@@ -1,5 +1,6 @@
 ---
 title: "TDD & CI, Rubocop, Yard, Inch"
+a-z: ["TDD & CI, Rubocop, Yard, Inch"]
 keywords: hydra contribution tools
 categories: Community
 permalink: contribution-tools.html

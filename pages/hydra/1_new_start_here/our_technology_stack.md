@@ -1,5 +1,6 @@
 ---
-title:  "Our Technology Stack"
+title: "Our Technology Stack"
+a-z: ["Our Technology Stack"]
 keywords: front end, Blacklight, Rails, Hydra Editor and other gems, search/Solr, persistance/Fedora
 permalink: our_technology_stack.html
 folder: pages/hydra/1_new_start_here/our_technology_stack.md

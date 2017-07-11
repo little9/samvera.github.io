@@ -1,5 +1,6 @@
 ---
-title:  "Training"
+title: "Training"
+a-z: ["Training"]
 keywords: Hydra Camp, Advanced Hydra Camp (Sandi Metz workshops?)
 permalink: training.html
 folder: hydra/getting_started/training.md

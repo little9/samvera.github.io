@@ -1,5 +1,6 @@
 ---
 title: A Guide For The Perplexed Hydra Developer
+a-z: [A Guide For The Perplexed Hydra Developer]
 keywords: sample homepage
 tags: [getting_started]
 sidebar: home_sidebar
