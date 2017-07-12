@@ -3,17 +3,15 @@ title: "Prereq: Defining a Controlled Vocabulary"
 keywords: Customize Metadata
 categories: How to Do All the Things
 permalink: customize-metadata-controlled-vocabulary.html
-folder: hydra/how-to/customize_metadata/hyrax_1.0/controlled-vocabulary.md
+folder: hydra/how-to/customize_metadata/hyrax_1.0/2_controlled-vocabulary.md
 sidebar: home_sidebar
 tags: [development_resources]
 a-z: ['Customizing Metadata (Controlled Vocabularies)', 'Controlled Vocabularies (Customizing Metadata)'] 
+version: 
+  id: 'hyrax_1.0-stable'
 ---
 
-NOTE: Please note that this documentation applies to Hyrax 1.0.
-
-This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.
-
----
+<ul class='info'><li>This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.</li></ul>
 
 Creating controlled vocabularies is not required for your app, but we will be using one in this tutorial.  So we'll go ahead and create it now.
 

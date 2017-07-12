@@ -3,16 +3,14 @@ title: "Defining Metadata in the Model"
 keywords: Customize Metadata
 categories: How to Do All the Things
 permalink: customize-metadata-model.html
-folder: hydra/how-to/customize_metadata/hyrax_1.0/model.md
+folder: hydra/how-to/customize_metadata/hyrax_1.0/5_model.md
 sidebar: home_sidebar
 tags: [development_resources]
+version: 
+  id: 'hyrax_1.0-stable'
 ---
 
-NOTE: Please note that this documentation applies to Hyrax 1.0.
-
-This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.
-
----
+<ul class='info'><li>This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.</li></ul>
 
 The GenericWork class is generated with some default metadata, but we want to update it with our own metadata.  The generated version of the file looks like...
 

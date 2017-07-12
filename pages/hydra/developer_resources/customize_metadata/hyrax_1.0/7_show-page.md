@@ -3,16 +3,14 @@ title: "Modifying the Show Page"
 keywords: Customize Metadata
 categories: How to Do All the Things
 permalink: customize-metadata-show-page.html
-folder: hydra/how-to/customize_metadata/hyrax_1.0/show-page.md
+folder: hydra/how-to/customize_metadata/hyrax_1.0/7_show-page.md
 sidebar: home_sidebar
 tags: [development_resources]
+version: 
+  id: 'hyrax_1.0-stable'
 ---
 
-NOTE: Please note that this documentation applies to Hyrax 1.0.
-
-This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.
-
----
+<ul class='info'><li>This tutorial assumes that you generated a work type name GenericWork.  If you used a different name, substitute that name for all occurrences of GenericWork and generic_work.</li></ul>
 
 ## Default properties for the show page
 
